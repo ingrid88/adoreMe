@@ -1,0 +1,22 @@
+n – number of apartment
+price – price in 1000$
+totsp – total space in sq.meters
+livesp - living space in sq.meters
+kitsp – kitchen space in sq.meters
+dist – distance to city center in km
+metrdist – distance to subway in minutes
+walk – 1 – walk to subway, 0 – transport
+brick 1 – brick house, 0 – other
+floor 1 – floor excluding 1st and last, 0 – other floors.
+code – number from 1-8 which indicate geographical region
+
+City regions in Russian
+1. Наблюдения сгруппированы на севере, вокруг Калужско-Рижской линии
+метрополитена
+2. Север, вокруг Серпуховско-Тимирязевской линии метрополитена
+3. Северо-запад, вокруг Замоскворецкой линии метрополитена
+4. Северо-запад, вокруг Таганско-Краснопресненской линии метрополитена
+5. Юго-восток, вокруг Люблинской линии метрополитена
+6. Юго-восток, вокруг Таганско-Краснопресненской линии метрополитена
+7. Восток, вокруг Калиниской линии метрополитена
+8. Восток, вокруг Арбатско-Покровской линии метрополитена
